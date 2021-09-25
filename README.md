@@ -11,3 +11,18 @@ Home, Corporate and Travel.
 3. Save credentials inside a credentials.json file and run the below command
  `DF_PROJECT_ID=pb-hackathon2021-vuwh DF_SERVICE_ACCOUNT_PATH=credentials.json node app.js`
 ![HOMETRAVELSME_FLOW drawio](https://user-images.githubusercontent.com/11266456/134764656-dfb626ab-54a1-427a-99cb-e992552d0621.png)
+
+Agent handdoff
+https://youtu.be/FdzaV9x4L4Y
+
+React native integration
+https://youtu.be/m8drOSXXi6Y
+
+Home Insurance
+https://youtu.be/l_j5WBH8ux0
+
+Corporate Insurance
+https://youtu.be/uJOBFVPR0nw
+
+Travel Insurance
+https://youtu.be/c1GI_4VkmnI
